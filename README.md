@@ -15,5 +15,3 @@ Trying to figure out Python, C++, JavaScript and CSS, oh, almost forgot English.
 ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=HTML5)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NightFeather0615&layout=compact)](https://github.com/NightFeather0615)
