@@ -3,7 +3,7 @@
 ## Info
 Uh, I have no idea why you will come here, whatever, nice to meet you!  
 My name is NightFeather, a student from Taiwan.  
-Trying to figure out Python, C++, JavaScript and CSS, oh, almost forgot English.
+Trying to figure out Python, C++, JavaScript and HTML, oh, almost forgot English.
 
 ## Misc
 ### Social links  
