@@ -2,7 +2,7 @@
 
 ## Info
 Uh, I have no idea why you will come here, whatever, nice to meet you!  
-My name is NightFeather, a student from Taiwan.  
+My name is NightFeather, a 16 years old student from Taiwan.  
 Trying to figure out Python, JavaScript, HTML and CSS, oh, almost forgot English.  
   
 My bot uwu  
