@@ -1,4 +1,4 @@
-# Welcome to my bio  
+# Welcome to my bio!  
 
 ## Info
 Uh, I have no idea why you will come here, whatever, nice to meet you!  
