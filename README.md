@@ -5,7 +5,7 @@ Uh, I have no idea why you will come here, whatever, nice to meet you!
 My name is NightFeather, a 16 years old student from Taiwan.  
 Trying to figure out Python, JavaScript, HTML and CSS, oh, almost forgot English.  
   
-Just a small side project, hope you will like it!  
+My Discord bot, just a small side project, hope you will like it!  
 Invite:  
 [![Discord Bot](https://img.shields.io/badge/-Hanabi＃5219-7289da?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/oauth2/authorize?client_id=866699115299864586&permissions=8&scope=bot%20applications.commands)](https://discord.com/oauth2/authorize?client_id=866699115299864586&permissions=8&scope=bot%20applications.commands)
 
