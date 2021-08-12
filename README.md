@@ -7,7 +7,7 @@ Trying to figure out Python, JavaScript, HTML and CSS, oh, almost forgot English
   
 My Discord bot, just a small side project, hope you will like it!  
 Invite:  
-[![Discord Bot](https://img.shields.io/badge/-Hanabi＃5219-7289da?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/oauth2/authorize?client_id=866699115299864586&permissions=8&scope=bot%20applications.commands)](https://discord.com/oauth2/authorize?client_id=866699115299864586&permissions=8&scope=bot%20applications.commands)
+[![Discord Bot](https://img.shields.io/badge/-花火＃5219-7289da?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/oauth2/authorize?client_id=866699115299864586&permissions=8&scope=bot%20applications.commands)](https://discord.com/oauth2/authorize?client_id=866699115299864586&permissions=8&scope=bot%20applications.commands)
 
 ## Misc
 ### Social links  
