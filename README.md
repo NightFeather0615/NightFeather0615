@@ -15,8 +15,6 @@ Invite:
 
 [![NightFeather0615's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NightFeather0615&theme=github_dark&hide_border=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![NightFeather's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NightFeather&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Misc
 ### Social links  
 [![Discord Badge](https://img.shields.io/badge/-NightFeather＃0144-7289da?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/login)](https://discord.com/login)
