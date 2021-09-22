@@ -1,8 +1,8 @@
 # Welcome to my bio!  
 
 ## Info
-Uh, I have no idea why you will come here, whatever, nice to meet you!  
-You can call me NightFeather, I am a 16 years old student from Taiwan.  
+I have no idea why you will come here lol  
+Whatever, nice to meet you, I am a 16 years old student from Taiwan.  
 Trying to figure out Python, JavaScript, C++, HTML and English.  
     
 My Discord bot, just a small side project, hope you will like it!  
