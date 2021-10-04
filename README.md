@@ -7,7 +7,7 @@ Trying to figure out Python, JavaScript, C++, HTML and English.
     
 My Discord bot, just a small side project, hope you will like it!  
 邀請這支很酷的機器人來幫你管理伺服器，我沒事做的時候會更新它。  
-[![Discord Bots](https://top.gg/api/widget/866699115299864586.svg)(https://top.gg/bot/866699115299864586)
+[![Discord Bots](https://top.gg/api/widget/866699115299864586.svg)](https://top.gg/bot/866699115299864586)
 
 
 ## Stats
