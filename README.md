@@ -6,9 +6,9 @@ Whatever, I am a 16 years old student from Taiwan, nice to meet you!
 Trying to figure out Python, JavaScript, C++, HTML and English.  
     
 My Discord bot, just a small side project, hope you will like it!  
-邀這支很酷的機器人來幫你管理伺服器，我沒事做的時候會更新它。  
-Invite:  
-[![Discord Bot](https://img.shields.io/badge/-Azure＃5219-7289da?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/oauth2/authorize?client_id=866699115299864586&permissions=8&scope=bot%20applications.commands)](https://discord.com/oauth2/authorize?client_id=866699115299864586&permissions=8&scope=bot%20applications.commands)
+邀請這支很酷的機器人來幫你管理伺服器，我沒事做的時候會更新它。  
+[![Discord Bots](https://top.gg/api/widget/866699115299864586.svg)(https://top.gg/bot/866699115299864586)
+
 
 ## Stats
 [![NightFeather0615's github stats](https://github-readme-stats.vercel.app/api?username=NightFeather0615&theme=github_dark&hide_border=true&count_private=true&show_icons=true)
