@@ -10,9 +10,9 @@ My Discord bot, just a small side project, hope you will like it!
 [![Discord Bot Badge](https://img.shields.io/badge/-Azure＃5219-7289da?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/api/oauth2/authorize?client_id=866699115299864586&permissions=8&scope=bot%20applications.commands)](https://discord.com/api/oauth2/authorize?client_id=866699115299864586&permissions=8&scope=bot%20applications.commands)
 
 ## Stats
-[![](https://raw.githubusercontent.com/NightFeather0615/NightFeather0615/main/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/NightFeather0615/NightFeather0615/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)    [![](https://raw.githubusercontent.com/NightFeather0615/NightFeather0615/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/NightFeather0615/NightFeather0615/main/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)    [![](https://raw.githubusercontent.com/NightFeather0615/NightFeather0615/main/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![](https://raw.githubusercontent.com/NightFeather0615/NightFeather0615/main/profile-summary-card-output/github_dark/0-profile-details.svg)
+![](https://raw.githubusercontent.com/NightFeather0615/NightFeather0615/main/profile-summary-card-output/github_dark/1-repos-per-language.svg)    ![](https://raw.githubusercontent.com/NightFeather0615/NightFeather0615/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/NightFeather0615/NightFeather0615/main/profile-summary-card-output/github_dark/3-stats.svg)    ![](https://raw.githubusercontent.com/NightFeather0615/NightFeather0615/main/profile-summary-card-output/github_dark/4-productive-time.svg)
 
 ## Misc
 ### Social links  
