@@ -1,13 +1,13 @@
 # Welcome to my bio!  
 
 ## Info
-I have no idea why you will come here lol  
-Whatever, I am a 16 years old student from Taiwan, nice to meet you!  
-Trying to figure out Python, JavaScript, C++, HTML and English.  
-    
-My Discord bot, just a small side project, hope you will like it!  
-邀請這支很酷的機器人來幫你管理伺服器，我沒事做的時候會更新它。  
-[![Discord Bot Badge](https://img.shields.io/badge/-Azure＃5219-7289da?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/api/oauth2/authorize?client_id=866699115299864586&permissions=8&scope=bot%20applications.commands)](https://discord.com/api/oauth2/authorize?client_id=866699115299864586&permissions=8&scope=bot%20applications.commands)
+我不知道你來這裡幹嘛，但很高興認識你... 應該吧。  
+
+## Side Projects
+|🏷️|🔗|
+|-|-|
+|多功能管理機器人|[![Azure](https://img.shields.io/badge/-Azure＃5219-7289da?style=flat-square&logo=Discord&logoColor=white&link=https://discord.com/api/oauth2/authorize?client_id=866699115299864586&permissions=8&scope=bot%20applications.commands)](https://discord.com/api/oauth2/authorize?client_id=866699115299864586&permissions=8&scope=bot%20applications.commands)|
+|天氣警特報推播|[![CWB Alerts](https://img.shields.io/badge/-CWB Alerts＃0421-7289da?style=flat-square&logo=Discord&logoColor=white&link=https://gist.github.com/NightFeather0615/51d8493fbe174c026442f8cc70a5c726)](https://gist.github.com/NightFeather0615/51d8493fbe174c026442f8cc70a5c726)|
 
 ## Stats
 ![](https://raw.githubusercontent.com/NightFeather0615/NightFeather0615/main/profile-summary-card-output/github_dark/0-profile-details.svg)
