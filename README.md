@@ -1,4 +1,4 @@
-# Welcome to my bio!  
+# Welcome to my bio  
 
 ## Info
 你好，我是中工資訊廢人，我不知道你來這裡幹嘛，但很高興認識你... 應該吧。  
