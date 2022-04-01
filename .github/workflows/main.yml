@@ -43,7 +43,7 @@ jobs:
           plugin_music_limit: 4
           plugin_music_provider: spotify
           plugin_music_playlist: https://open.spotify.com/embed/playlist/37i9dQZF1DXdurasRmJgpJ
-          plugin_music_time_range: short
+          plugin_music_time_range: long
           plugin_music_top_type: tracks
           plugin_music_user: .user.login
           plugin_wakatime: yes
