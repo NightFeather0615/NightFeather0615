@@ -2,4 +2,7 @@
 
 ---
 
-![Metrics](/github-metrics.svg)
+<div style="display: flex; gap: 10px; align-items: center; justify-content: center">
+  <img src="/github-metrics.svg" alt="Metrics" width="460">
+  <img src="https://c.tenor.com/3F5XmYhEARwAAAAC/chill-japan.gif" height="670">
+</div>
