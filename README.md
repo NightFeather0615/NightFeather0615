@@ -3,6 +3,6 @@
 ---
 
 <div style="display: flex; gap: 10px; align-items: center; justify-content: center">
-  <img src="/github-metrics.svg" alt="Metrics" width="360">
-  <img src="https://c.tenor.com/3F5XmYhEARwAAAAd/chill-japan.gif" height="520">
+  <img src="/github-metrics.svg" alt="Metrics" width="400">
+  <img src="https://c.tenor.com/3F5XmYhEARwAAAAd/chill-japan.gif" height="580">
 </div>
