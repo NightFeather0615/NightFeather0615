@@ -1,7 +1,3 @@
-<h3 align="center">I don't really like coding.</h3>  
-
----
-
 <div style="display: flex; gap: 10px; align-items: center; justify-content: center">
   <img src="/github-metrics.svg" alt="Metrics" width="408">
   <p1>⠀</p1>
