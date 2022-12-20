@@ -15,7 +15,7 @@
   <br>
   
   <a href="https://skillicons.dev">
-    <img width="45%" height="60" align="right" src="https://skillicons.dev/icons?i=vue,astro,js,ts,tailwind,netlify,cloudflare" />
+    <img width="45%" height="60" align="right" src="https://skillicons.dev/icons?i=vue,astro,js,ts,tailwind,azure,cloudflare" />
   </a>
   
   <br>
