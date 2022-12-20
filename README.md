@@ -9,7 +9,7 @@
   </a>
   
   <a href="https://skillicons.dev">
-    <img width="45%" height="60" align="right" src="https://skillicons.dev/icons?i=androidstudio,gradle,flutter,kotlin,dart,swift" />
+    <img width="45%" height="60" align="right" src="https://skillicons.dev/icons?i=androidstudio,sqlite,flutter,kotlin,dart,swift" />
   </a>
   
   <br>
@@ -21,7 +21,7 @@
   <br>
   
   <a href="https://skillicons.dev">
-    <img width="45%" height="50" align="right" src="https://skillicons.dev/icons?i=py,fastapi,flask,rust,mongodb,redis,sqlite,mysql" />
+    <img width="45%" height="50" align="right" src="https://skillicons.dev/icons?i=py,fastapi,flask,rust,mongodb,redis,react,mysql" />
   </a>
   
   <br>
