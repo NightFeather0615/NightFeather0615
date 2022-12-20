@@ -23,6 +23,16 @@
   <a href="https://skillicons.dev">
     <img width="45%" height="50" align="right" src="https://skillicons.dev/icons?i=py,fastapi,flask,rust,mongodb,redis,mysql,sqlite" />
   </a>
+  
+  <br>
+  
+  <a href="https://skillicons.dev">
+    <img width="45%" height="60" align="right" src="https://skillicons.dev/icons?i=css,html,docker,firebase,gcp,git,netlify" />
+  </a>
+  
+  <br>
+  
+  <a href="https://skillicons.dev">
+    <img width="45%" height="60" align="right" src="https://skillicons.dev/icons?i=cpp,arduino,vscode,java,nodejs,raspberrypi" />
+  </a>
 </p>
-
-
