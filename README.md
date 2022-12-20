@@ -9,19 +9,19 @@
   </a>
   
   <a href="https://skillicons.dev">
-    <img width="45%" height="70" align="right" src="https://skillicons.dev/icons?i=androidstudio,gradle,flutter,kotlin,dart,swift" />
+    <img width="45%" height="60" align="right" src="https://skillicons.dev/icons?i=androidstudio,gradle,flutter,kotlin,dart,swift" />
   </a>
   
   <br>
   
   <a href="https://skillicons.dev">
-    <img width="45%" height="70" align="right" src="https://skillicons.dev/icons?i=vue,astro,js,ts,tailwind,netlify,cloudflare" />
+    <img width="45%" height="60" align="right" src="https://skillicons.dev/icons?i=vue,astro,js,ts,tailwind,netlify,cloudflare" />
   </a>
   
   <br>
   
   <a href="https://skillicons.dev">
-    <img width="45%" height="60" align="right" src="https://skillicons.dev/icons?i=py,fastapi,flask,rust,mongodb,redis,mysql,sqlite" />
+    <img width="45%" height="50" align="right" src="https://skillicons.dev/icons?i=py,fastapi,flask,rust,mongodb,redis,mysql,sqlite" />
   </a>
 </p>
 
