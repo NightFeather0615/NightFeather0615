@@ -21,7 +21,7 @@
   <br>
   
   <a href="https://skillicons.dev">
-    <img width="45%" height="50" align="right" src="https://skillicons.dev/icons?i=py,fastapi,flask,rust,mongodb,redis,mysql,sqlite" />
+    <img width="45%" height="50" align="right" src="https://skillicons.dev/icons?i=py,fastapi,flask,rust,mongodb,redis,sqlite,mysql" />
   </a>
   
   <br>
