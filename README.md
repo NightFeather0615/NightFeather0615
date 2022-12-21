@@ -5,7 +5,7 @@
   </a>
 
   <a href="https://github.com/lowlighter/metrics">
-    <img width="420" align="left" src="/github-metrics.svg"/>
+    <img width="430" align="left" src="/github-metrics.svg"/>
   </a>
   
   <a href="https://skillicons.dev">
