@@ -12,27 +12,33 @@
     <img width="380" height="60" align="right" src="https://skillicons.dev/icons?i=androidstudio,sqlite,flutter,kotlin,dart,swift" />
   </a>
   
-  <br>
+  <br/>
   
   <a href="https://skillicons.dev">
     <img width="380" height="60" align="right" src="https://skillicons.dev/icons?i=vue,astro,js,ts,tailwind,azure,cloudflare" />
   </a>
   
-  <br>
+  <br/>
   
   <a href="https://skillicons.dev">
     <img width="380" height="50" align="right" src="https://skillicons.dev/icons?i=py,fastapi,flask,rust,mongodb,redis,react,mysql" />
   </a>
   
-  <br>
+  <br/>
   
   <a href="https://skillicons.dev">
     <img width="380" height="60" align="right" src="https://skillicons.dev/icons?i=css,html,docker,firebase,gcp,git,netlify" />
   </a>
   
-  <br>
+  <br/>
   
   <a href="https://skillicons.dev">
     <img width="380" height="60" align="right" src="https://skillicons.dev/icons?i=cpp,arduino,vscode,java,nodejs,raspberrypi" />
+  </a>
+
+  <br/>
+  
+  <a href="https://blog.nightfeather.dev/">
+    <img width="380" height="60" align="right" src="/src/banner.png" />
   </a>
 </p>
