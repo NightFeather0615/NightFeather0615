@@ -38,7 +38,7 @@
 
   <br/>
   
-  <a href="https://blog.nightfeather.dev/">
+  <a href="https://www.pixiv.net/artworks/92607143">
     <img width="380" height="135" align="right" src="/src/banner.png" />
   </a>
 </p>
