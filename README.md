@@ -39,6 +39,6 @@
   <br/>
   
   <a href="https://blog.nightfeather.dev/">
-    <img width="380" height="135" align="right" src="/src/banner.png" />
+    <img width="380" height="135" align="right" src="/src/banner.webp" />
   </a>
 </p>
