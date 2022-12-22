@@ -1,7 +1,7 @@
 <p align="center">
 
   <a href="https://discord.com/users/283841865403465728">
-    <img width="380" height="195" align="left" src="https://lanyard.cnrad.dev/api/283841865403465728?bg=0d1117&animated=true&idleMessage=%E3%80%8C%E4%BB%A5%E5%A4%A2%E7%82%BA%E9%A6%AC%EF%BC%8C%E4%B8%8D%E8%B2%A0%E9%9F%B6%E8%8F%AF%E3%80%82%E3%80%8D"/>
+    <img width="380" height="195" align="left" src="https://lanyard.cnrad.dev/api/283841865403465728?bg=0d111700&animated=true&idleMessage=%E2%96%BC%20Tech%20Stack%20%28Not%20all%20mastered%29"/>
   </a>
 
   <a href="https://github.com/lowlighter/metrics">
