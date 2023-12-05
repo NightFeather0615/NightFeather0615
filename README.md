@@ -38,7 +38,7 @@
 
   <br/>
   
-  <a href="https://www.pixiv.net/artworks/92607143">
-    <img width="380" height="135" align="left" src="/src/banner.webp" />
+  <a href="https://www.pixiv.net/artworks/108959128">
+    <img width="380" height="190" align="left" src="/src/banner.png" />
   </a>
 </p>
