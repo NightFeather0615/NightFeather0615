@@ -5,7 +5,7 @@
   </a>
 
   <a href="https://github.com/lowlighter/metrics">
-    <img width="425" height="710" align="right" src="/github-metrics.svg"/>
+    <img width="425" height="650" align="right" src="/github-metrics.svg"/>
   </a>
   
   <a href="https://skillicons.dev">
@@ -39,6 +39,6 @@
   <br/>
   
   <a href="https://www.pixiv.net/artworks/108959128">
-    <img width="380" height="190" align="left" src="/src/banner.webp" />
+    <img width="380" height="185" align="left" src="/src/banner.png" />
   </a>
 </p>
